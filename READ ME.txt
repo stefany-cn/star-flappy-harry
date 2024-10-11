@@ -1,0 +1,34 @@
+============================= STAR-FLAPPY-HARRY ====================
+Este jogo foi desenvolvido por Stefany Costa Nascimento e Thayssa Leao Francisco.
+
+Ao inciar o programa executável, o jogo abre o menu principal onde terá as seguintes opções:
+N - NOVO JOGO
+R - RANKING
+D - DIFICULDADE
+E - FECHAR O JOGO
+Você deve pressionar a tecla correspondente ao que deseja.
+------ NOVO JOGO ------
+Ao escolher começar um novo jogo, aparecerá uma tela para escolher o tema:
+S - STAR WARS
+H - HARRY POTTER
+Após escolher o tema, o jogo inicia com o tema desejado. Os obstáculos são levemente diferentes do jogo original de forma que:
+1) os "tubos" inferiores são basicamente iguais aos do jogo original
+2) os "tubos" superiores são representados por personagens de dimensões diferentes dos tubos
+3) um terceiro obstáculos foi acrescentado de forma a evitar que o jogador apenas voe por cima dos personagens, além deste obstáculo ter velocidade diferente dos outros
+
+------ RANKING ------
+Ao escolher a opção "ranking", uma tela abre com as 5 maiores pontuações dentre os jogadores que já jogaram
+
+------ DIFICULDADE ------
+Ao escolher a opção dificuldade, uma tela abre com as opções:
+F - FÁCIL
+I - DIFÍCIL
+Ao escolher a dificuldade, o jogo lerá o arquivo de dificuldade selecionado, carregará os valores referentes a escolha e irá para a tela de escolha do tema
+*Obs: caso o jogador não escolha uma dificuldade, o jogo iniciará com os valores da dificuldade fácil por padrão
+
+------ FECHAR O JOGO ------
+Ao escolher para fechar o jogo, as texturas são descarregadas e a janela do jogo é fechada.
+
++++++++++++ COMO JOGAR ++++++++++
+ESPAÇO - Pressione espaço para que o personagem suba
+Ao soltar a tecla espaço, o personagem começa a cair
